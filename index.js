@@ -16,7 +16,7 @@ const apivhtear = 'apikey';
 const apibarbar = 'apikey';
 const tobzkey = 'apikey';
 const BotName = 'マーリフラマダン';
-const wa = 'wa.me/6289531551431;
+const wa = 'wa.me/6289531551431';
 const eror = 'Info fitur Error';
 const ow = 'Ma'arif09';
 const nomorowner = '089531551431';
@@ -24,7 +24,7 @@ const ovo = '089531551431';
 const pulsa = '089531551431';
 const dana = '089531551431';
 const instagram = 'http://www.instagram.com/maarif_ramadhan';
-const aktif = '08:00 - 22:00';
+const aktif = '-';
 const vcard = 'BEGIN:VCARD\n'
   + 'VERSION:3.0\n'
   + 'FN:'Maarif09\n' // Nama kamu
