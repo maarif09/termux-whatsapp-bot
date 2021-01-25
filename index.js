@@ -27,7 +27,7 @@ const instagram = 'http://www.instagram.com/maarif_ramadhan';
 const aktif = '-';
 const vcard = 'BEGIN:VCARD\n'
   + 'VERSION:3.0\n'
-  + 'FN:'Maarif09\n' // Nama kamu
+  + 'FN:'MR09;\n' // Nama kamu
   + 'ORG:'マーリフラマダン;\n' // Nama bot
   + 'TEL;type=CELL;type=VOICE;waid=6289531551431:+62 895-3155-1431\n' //Nomor whatsapp kamu
   + 'END:VCARD'
